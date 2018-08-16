@@ -9,6 +9,6 @@ describe('this lab', () => {
 
     it('has a folder named my-repository', () => {
       chai.assert.isDirectory('./my-repository',  'no folder name "my-repository" was found');
-    })m
+    })
 
 })
